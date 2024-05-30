@@ -1,8 +1,8 @@
 # Object Oriented Programming
  Courseworks in Java
 
- Grades:<br>
- HW1 = 100<br>
- HW2 = 90<br>
- HW3 = 100<br>
- HW4 = 95<br>
+ Grades (/100):<br>
+ Hw1 - 100<br>
+ Hw2 -  90<br>
+ Hw3 - 100<br>
+ Hw4 -  95<br>
